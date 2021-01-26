@@ -54,9 +54,24 @@ cd ../data/anguilla_anguilla
 ```
 
 # Contando numero de proteínas anotadas como *hypothetical protein* o *Uncharacterized protein*
-```{eval = T, echo = T}
+```{bash eval = T, echo = T}
 # contando 'hypothetical protein'
-grep -c 'hypothetical protein' ../data/anguilla_anguilla/protein.faa
+grep -c 'hypothetical protein' ../data/anguilla_anguilla/GCF_013347855.1/protein.faa
 # contando 'uncharacterized protein'
-grep -c 'uncharacterized protein' ../data/anguilla_anguilla/protein.faa
+grep -c 'uncharacterized protein' ../data/anguilla_anguilla/GCF_013347855.1/protein.faa
+```
+
+## Obteniendo secuencias de *uncharacterized protein* y guardando FASTA
+```{r, eval = T, echo = T}
+library(bioseq)
+
+# cargando proteinas
+uncharacterized_proteins.tibble = read_fasta('../data/anguilla_anguilla/GCF_013347855.1/protein.faa', type = 'AA') %>%
+	# pasando a tipo de variable tibble
+	as_tibble() %>%
+	# filtrando para uncharacterized proteins
+	dplyr::filter(str_detect(label, 'uncharacterized protein')) %>%
+	deframe() %>%
+	# guardando en multiFASTA
+	bioseq::write_fasta('../data/anguilla_anguilla/uncharacterized_prots.faa')
 ```

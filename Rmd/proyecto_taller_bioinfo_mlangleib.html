@@ -443,7 +443,9 @@ summary {
 <div id="TOC">
 <ul>
 <li><a href="#genomas-empleados">Genomas empleados</a></li>
-<li><a href="#contando-numero-de-proteínas-anotadas-como-hypothetical-protein-o-uncharacterized-protein">Contando numero de proteínas anotadas como <em>hypothetical protein</em> o <em>Uncharacterized protein</em></a></li>
+<li><a href="#contando-numero-de-proteínas-anotadas-como-hypothetical-protein-o-uncharacterized-protein">Contando numero de proteínas anotadas como <em>hypothetical protein</em> o <em>Uncharacterized protein</em></a><ul>
+<li><a href="#obteniendo-secuencias-de-uncharacterized-protein-y-guardando-fasta">Obteniendo secuencias de <em>uncharacterized protein</em> y guardando FASTA</a></li>
+</ul></li>
 </ul>
 </div>
 
@@ -482,10 +484,26 @@ cd ../data/anguilla_anguilla
 </div>
 <div id="contando-numero-de-proteínas-anotadas-como-hypothetical-protein-o-uncharacterized-protein" class="section level1">
 <h1>Contando numero de proteínas anotadas como <em>hypothetical protein</em> o <em>Uncharacterized protein</em></h1>
-<pre class="eval"><code># contando 'hypothetical protein'
-grep -c 'hypothetical protein' ../data/anguilla_anguilla/protein.faa
+<pre class="bash"><code># contando 'hypothetical protein'
+grep -c 'hypothetical protein' ../data/anguilla_anguilla/GCF_013347855.1/protein.faa
 # contando 'uncharacterized protein'
-grep -c 'uncharacterized protein' ../data/anguilla_anguilla/protein.faa</code></pre>
+grep -c 'uncharacterized protein' ../data/anguilla_anguilla/GCF_013347855.1/protein.faa</code></pre>
+<pre><code>## 0
+## 2842</code></pre>
+<div id="obteniendo-secuencias-de-uncharacterized-protein-y-guardando-fasta" class="section level2">
+<h2>Obteniendo secuencias de <em>uncharacterized protein</em> y guardando FASTA</h2>
+<pre class="r"><code>library(bioseq)
+
+# cargando proteinas
+uncharacterized_proteins.tibble = read_fasta('../data/anguilla_anguilla/GCF_013347855.1/protein.faa', type = 'AA') %&gt;%
+    # pasando a tipo de variable tibble
+    as_tibble() %&gt;%
+    # filtrando para uncharacterized proteins
+    dplyr::filter(str_detect(label, 'uncharacterized protein')) %&gt;%
+    deframe() %&gt;%
+    # guardando en multiFASTA
+    bioseq::write_fasta('../data/anguilla_anguilla/uncharacterized_prots.faa')</code></pre>
+</div>
 </div>
 
 
