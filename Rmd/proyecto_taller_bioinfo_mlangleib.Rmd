@@ -1,0 +1,62 @@
+---
+title: "Búsqueda de homólogos remotos para proteínas hipotéticas de *Anguilla anguilla*"
+author: "Mauricio Langleib"
+date: "`r Sys.Date()`"
+output: 
+ html_document:
+  code_folding: hide
+  toc: true
+  toc_depth: 2
+---
+
+
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+```{r, echo = T, eval = T, error = F, message = F, warning = F}
+# calling R libraries
+try(library(tidyverse), silent = TRUE)
+try(library(magrittr), silent = TRUE)
+try(library(purrr), silent = TRUE)
+try(library(tibble), silent = TRUE)
+try(library(dplyr), silent = TRUE)
+try(library(stringr), silent = TRUE)
+try(library(glue), silent = TRUE)
+try(library(DT), silent = TRUE)
+try(library(knitr), silent = TRUE)
+try(library(seqinr), silent = TRUE)
+try(library(rtracklayer), silent = TRUE)
+try(library(plotly), silent = TRUE)
+```
+
+# Genomas empleados
+```{r, eval = T, echo = F}
+library(knitr)
+library(kableExtra)
+
+tribble(~Organismo, ~Accession, 'Anguilla anguilla', 'GCF_013347855.1') %>%
+	kable(., booktabs = T, format = "latex", longtable = F, cap = 'Ensamblados genómicos empleados en este estudio.') %>%
+	column_spec(kable_input = ., column = 1, italic = T) %>%
+	kable_styling(latex_options = c('striped', 'scale_down'))
+
+```
+
+```{bash, eval = F, echo = T, warning = F, error = F, message = F}
+mkdir ../data
+mkdir ../data/anguilla_anguilla
+cd ../data/anguilla_anguilla
+../../datasets download genome accession GCF_013347855.1
+```
+
+# Contando numero de proteínas anotadas como *hypothetical protein* o *Uncharacterized protein*
+```{eval = T, echo = T}
+# contando 'hypothetical protein'
+grep -c 'hypothetical protein' ../data/anguilla_anguilla/protein.faa
+# contando 'uncharacterized protein'
+grep -c 'uncharacterized protein' ../data/anguilla_anguilla/protein.faa
+```
