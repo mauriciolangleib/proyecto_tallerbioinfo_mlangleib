@@ -65,7 +65,7 @@ data = ggmsa::tidy_msa(x)
 #p = ggtree(arbol_casein_kinasas) + geom_tiplab()
 ggtree(arbol_casein_kinasas) +
  geom_text2(aes(subset = !isTip, label=label), nudge_x = 0.60) +
- geom_tiplab(offset = 0.5, align = TRUE) + xlim(NA, 12) -> p
+ geom_tiplab(offset = 0.5, align = F)  -> p
 
 msa_plot = msaplot(p, '../aln/OG0000070.modif.correct_labels.msa')
 
