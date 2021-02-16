@@ -69,7 +69,7 @@ ggtree(arbol_casein_kinasas) +
 
 msa_plot = msaplot(p, '../aln/OG0000070.modif.correct_labels.msa')
 
-ggtree::ggsave('prueba_msaplot.pdf', device = 'pdf', width = 12, height = 9, limitsize = F, units = 'in')
+ggtree::ggsave('prueba_msaplot.pdf', device = 'pdf', width = 24, height = 9, limitsize = F, units = 'in')
 
 # guardo plot
 plot = facet_plot(p, geom = geom_msa, data = data,  panel = 'MSA',
