@@ -54,6 +54,7 @@ library(ggmsa)
 
 # cargo arbol
 arbol_casein_kinasas = arbol_contree
+arbol_casein_kinasas$tip.label %<>% str_replace_all(' ', '_')
 
 # cargo msa
 protein_sequences = '../aln/OG0000070.modif.correct_labels.msa'
@@ -61,7 +62,7 @@ x = readAAStringSet(protein_sequences)
 data = ggmsa::tidy_msa(x)
 
 # ploteo
-p = ggtree(arbol_casein_kinasas) + geom_tiplab()
+#p = ggtree(arbol_casein_kinasas) + geom_tiplab()
 ggtree(arbol_casein_kinasas, branch.length = 'none') +
  geom_text2(aes(subset = !isTip, label=label), nudge_x = 0.60) +
  geom_tiplab(offset = 0.5) -> p
@@ -73,7 +74,7 @@ plot = facet_plot(p, geom = geom_msa, data = data,  panel = 'MSA',
 
 ggtree::ggsave(filename = 'arbol_casein_kinasas_msa.pdf',
                device = "pdf", 
-               width = 12, 
+               width = 20, 
                height = 9 , 
                units = "in" , 
                limitsize = FALSE)
