@@ -67,7 +67,7 @@ ggtree(arbol_casein_kinasas) +
  geom_text2(aes(subset = !isTip, label=label)) +
  geom_tiplab(align = F)  -> p
 
-msa_plot = msaplot(p, '../aln/OG0000070.modif.correct_labels.msa')
+msa_plot = msaplot(p, '../aln/OG0000070.modif.correct_labels.msa', offset = 4)
 
 ggtree::ggsave('prueba_msaplot.pdf', device = 'pdf', width = 40, height = 12, limitsize = F, units = 'in')
 
