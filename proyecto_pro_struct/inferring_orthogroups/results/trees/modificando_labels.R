@@ -65,11 +65,15 @@ data = ggmsa::tidy_msa(x)
 #p = ggtree(arbol_casein_kinasas) + geom_tiplab()
 ggtree(arbol_casein_kinasas) +
  geom_text2(aes(subset = !isTip, label=label), nudge_x = 0.60) +
- geom_tiplab(offset = 0.5) -> p
+ geom_tiplab(offset = 0.5, align = TRUE) + xlim(NA, 12) -> p
+
+msa_plot = msaplot(p, '../aln/OG0000070.modif.correct_labels.msa')
+
+ggtree::ggsave('prueba_msaplot.pdf', device = 'pdf', width = 12, height = 9, limitsize = F, units = 'in')
 
 # guardo plot
 plot = facet_plot(p, geom = geom_msa, data = data,  panel = 'MSA',
-               font = NULL, color = "Chemistry_AA") #+
+               font = NULL, , color = "Chemistry_AA") #+
        #xlim_tree(1)
 
 ggtree::ggsave(filename = 'arbol_casein_kinasas_msa.pdf',
