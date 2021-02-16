@@ -1,4 +1,4 @@
->OON13748.1 hypothetical protein X801_10471 [Opisthorchis viverrini]
+>OON13748.1_hypothetical_protein_X801_10471_[Opisthorchis_viverrini]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -15,7 +15,7 @@ KYERI-SEKK MQTPVEVLCE GYPGK----- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->OON15015.1 kinase domain protein [Opisthorchis viverrini]
+>OON15015.1_kinase_domain_protein_[Opisthorchis_viverrini]
 M--------- ---------- ---------- -------IAL ARIARVI--- ---------- ---------- -----KAPMD
 DCQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----LPCST
 D--------- ---------F IIGGK-WRLV RKIGSGAFGA IFLGVNIKTS EEVAVKLERV NARHP-QLYF ESRVYKVLQV
@@ -32,7 +32,7 @@ VWDYVFDWTL LRQKGS---T VH-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PVGDNPTE-- -----LKNLA GRLPTDPI-- ---------- ---------- -QPVSK---- ---------- --------
 
->OON18795.1 casein kinase I isoform alpha family protein, partial [Opisthorchis viverrini]
+>OON18795.1_casein_kinase_I_isoform_alpha_family_protein,_partial_[Opisthorchis_viverrini]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ------MENM YAKHP-QLQF EHKVYRML--
@@ -49,7 +49,7 @@ QFDYVFDWTM LKQRTA---A TSSSATADPN YEDPS----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKLF----
 
->OON21632.1 hypothetical protein X801_02467 [Opisthorchis viverrini]
+>OON21632.1_hypothetical_protein_X801_02467_[Opisthorchis_viverrini]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -66,7 +66,7 @@ KYDCQFDW-- -NENLA---D EAS------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->OON22446.1 kinase domain protein [Opisthorchis viverrini]
+>OON22446.1_kinase_domain_protein_[Opisthorchis_viverrini]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 FTK------- ---------- -----C---- ---------- ---------- ---------- ---EF----- -----VSPLN
 Q--------- ---------F MIAGK-WKLV RKIGGGSFGD IYLGHNVATG EEVAIKLEPS TARHP-QLFY ESRVYRIL--
@@ -83,7 +83,7 @@ LM-RLLMPND PRSTEHNSLG QR-QQEQQQQ LLQQHA-HTG ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------NH
 AAAHHHPN-- ---------- ---PSSGG-- ---------- ---------- -GGGGG-A-Y GMRCVAPDLH R-------
 
->RJW60639.1 Casein kinase I isoform alpha [Clonorchis sinensis]
+>RJW60639.1_Casein_kinase_I_isoform_alpha_[Clonorchis_sinensis]
 MPELVPTVQP IQPLP----- -----SVDR- ------TVAL LEAGRQVP-- ---------- -FGCNYNPNK RLIRRQAPMD
 DCQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----LPCST
 D--------- ---------F VIGGK-WRLV RKIGSGAFGA IFLGVNVKTS EEVAVKLERV NARHP-QLYF ESRVYKVL--
@@ -100,7 +100,7 @@ VWDYVFDWTL LRQKGS---T VH-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PVGDNPTE-- -----LKNLA GRLPADPI-- ---------- ---------- -QPVSK---- ---------- --------
 
->RJW60735.1 Casein kinase I isoform alpha [Clonorchis sinensis]
+>RJW60735.1_Casein_kinase_I_isoform_alpha_[Clonorchis_sinensis]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 ESV------- ---------- ---------- ---------- ---------- ---------- ---------- --------RG
 E--------- ---------C IINDR-YRLM RKIGSGSFGD IYLGVNQLTG EEVAVKMENM YAKHP-QLQF EHKVYRML--
@@ -117,7 +117,7 @@ QFDYVFDWTM LKQRTA---A TSSSATADPN YEDPS----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKFF----
 
->RJW66274.1 Casein kinase I isoform alpha, partial [Clonorchis sinensis]
+>RJW66274.1_Casein_kinase_I_isoform_alpha,_partial_[Clonorchis_sinensis]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- --------DS QHSL------
@@ -134,7 +134,7 @@ QFDYVFDWTM LKQRTA---A TSSSATADPN YEDPS----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKFF----
 
->RJW72653.1 Casein kinase I isoform delta-A, partial [Clonorchis sinensis]
+>RJW72653.1_Casein_kinase_I_isoform_delta-A,_partial_[Clonorchis_sinensis]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDLTRG EEVAIKLECT KAKHP-QLQI EAKIYKLM--
@@ -151,7 +151,7 @@ KYERI-SEKK MQTPVEVLCE GYP------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->RJW73332.1 Casein kinase I isoform alpha [Clonorchis sinensis]
+>RJW73332.1_Casein_kinase_I_isoform_alpha_[Clonorchis_sinensis]
 MTNTYMSFGG ---------- ---DSANAYV VHGEHGRRDM MRI------- ------DARK GLGLWLSSN- --------MY
 FLRHNEQSAQ KAFAVLRMIR RAFFRCLLRR QEERNPQWAS SALLRKWLPA LNPRLVVLDP FSLEYRRLRG DLIHANAPFE
 QGLTDLTIEM RATAFKVGLF MIAGK-WKLV RKIGGGSFGD IYLGHNVATG EEVAIKLEPS TARHP-QLFY ESRVYRIL--
@@ -168,7 +168,7 @@ LM-RLLMPND PRSTEHNSLG QR-QQEQQQQ LLQQHA-HTG ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------NH
 AAAHHHPN-- ---------- ---PSSGG-- ---------- ---------- -GGGGG-A-Y GMRCVAPDLH R-------
 
->RTG80009.1 casein kinase 1, alpha [Schistosoma bovis]
+>RTG80009.1_casein_kinase_1,_alpha_[Schistosoma_bovis]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--
@@ -185,7 +185,7 @@ AKTVLTLAEQ MLWRIECVHY RGLIHRDIKP DNFLMGIGPH CNRVFIVDFG LAKRF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->RTG80744.1 casein kinase 1, delta, partial [Schistosoma bovis]
+>RTG80744.1_casein_kinase_1,_delta,_partial_[Schistosoma_bovis]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- -------F-- ---------- ---------- ---------- ----------
@@ -202,7 +202,7 @@ TSQF---ANP ACPSNMFLMN NNHNNSNANN ---PISMTGG L--QQQPNTN LYPSIDSNCA IQHPS----- QQQ
 PVQSQPQSNT NNNNTNHQQV VTSRQIVQPI SHH---PQQN SYLLTQQSSI GQVI--GGNN SGTTNHQIH- -HHQQQLNAS
 TTFGNHPHNL YHLRLHPE-T FYVPATASGQ T---SNINNN ENFTSTPMIL PSGQQV---G G--VGSNAFR K-------
 
->RTG84109.1 uncharacterized protein DC041_0008799 [Schistosoma bovis]
+>RTG84109.1_uncharacterized_protein_DC041_0008799_[Schistosoma_bovis]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--
@@ -219,7 +219,7 @@ AA-QCALPAP QVYGNHNHHN IPVQQSQPQQ VLPH-A-HSR ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TQ
 TNAYNAP--- ---------- ---------- ---------- ---------- --GTSV-E-Y GMRCMPTEMR R-------
 
->RTG84110.1 uncharacterized protein DC041_0008800 [Schistosoma bovis]
+>RTG84110.1_uncharacterized_protein_DC041_0008800_[Schistosoma_bovis]
 -----MLVGS VDEVPISETP CLDDSKVA-- ----HYTEDT IKLPPGLVNL GNTCYMNAAV QL-LFSIPEL R--LALQMME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--
@@ -236,7 +236,7 @@ AA-QCALPAP QVYGNHNHHN IPVQQSQPQQ VLPH-A-HSR ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TQ
 TNAYNAP--- ---------- ---------- ---------- ---------- --GTSV-E-Y GMRCMPTEMR R-------
 
->RTG85727.1 casein kinase 1, alpha, partial [Schistosoma bovis]
+>RTG85727.1_casein_kinase_1,_alpha,_partial_[Schistosoma_bovis]
 CLN------- ---------- ---------- ---------R LRTT------ ---------- ------WPG- ---KQSVNMA
 DLV------- ---------- ---------- ---------- ---------- ---------- ---------- -----NRQRT
 D--------- ---------I LVNDK-YRLM RKIGSGSFGD IYLGVNQLTG EEVAVKMENI YAKHP-QLQF EHKVYRLL--
@@ -253,7 +253,7 @@ QFDYVFDWTI LKQRGP---A GTSS---TLN EDTS------ ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GSTQV---- -------PFG RTG-----
 
->RTG86473.1 casein kinase 1, alpha [Schistosoma bovis]
+>RTG86473.1_casein_kinase_1,_alpha_[Schistosoma_bovis]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RLSSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRHC-QLYF ESKVYRVL--
@@ -270,7 +270,7 @@ VWDYVFDWTL LRQKAS---A IE-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PPGQKTS--- ---------- ----TNVA-- ---------- ---------- -AATSV---- ---KE----- --------
 
->RTG88204.1 casein kinase 1, delta [Schistosoma bovis]
+>RTG88204.1_casein_kinase_1,_delta_[Schistosoma_bovis]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -287,7 +287,7 @@ TSQF---ANP ACPSNMFLMN NNHNNSNANN ---PISMTGG L--QQQPNTN LYPSIDSNCA IQHPS----- QQQ
 PVQSQPQSNT NNNNTNHQQV VTSRQIVQPI SHH---PQQN SYLLTQQSSI GQVI--GGNN SGTTNHQIH- -HHQQQLNAS
 TTFGNHPHNL YHLRLHPE-T FYVPATASGQ T---SNINNN ENFTSTPMIL PSGQQV---G G--VGSNAFR K-------
 
->TGZ62601.1 hypothetical protein CRM22_007346 [Opisthorchis felineus]
+>TGZ62601.1_hypothetical_protein_CRM22_007346_[Opisthorchis_felineus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 STKS------ ---------- ---------- ---------- -------VAE SN-------- ---DG----- ----SYDSLS
 E--------- ---------F VVNRE-WRLI KRIGAGSFGE IFLAAHKKTN EQAAVKLELY KSGTPVQLQT EFHLLRAL--
@@ -304,7 +304,7 @@ KYDCQFDW-- -NENLP---D EAS------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->TGZ66219.1 hypothetical protein CRM22_005445 [Opisthorchis felineus]
+>TGZ66219.1_hypothetical_protein_CRM22_005445_[Opisthorchis_felineus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 FSK------- ---------- -----C---- ---------- ---------- ---------- ---EF----- -----VSPLN
 Q--------- ---------F MIAGK-WKLV RKIGGGSFGD IYLGHNVATG EEVAIKLEPS TARHP-QLFY ESRVYRIL--
@@ -321,7 +321,7 @@ LM-RLLMPTD PRSTEHNSLG QR-QQE-QQQ LLQQHA-HTG ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------NH
 AAAHHHPN-- ---------- ---PSSGG-- ---------- ---------- -GGGGG-A-Y GMRCVAPDLH R-------
 
->TGZ67750.1 hypothetical protein CRM22_004629 [Opisthorchis felineus]
+>TGZ67750.1_hypothetical_protein_CRM22_004629_[Opisthorchis_felineus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -338,7 +338,7 @@ TPGFP-NTTP VRPVGMYVVS SGNSTQLSTG ---PV----- ---QTNPTFY PQAVNFAQAY -NQPS--LYV VPE
 PAQPQ----- ---------- ---------- --H---DQRA PYLLAQS--- ---------- ---------- -QTLQQQSQP
 MLGIHHVPHT YHP--HPG-A LHLPTSTT-- ---------P DTFS-SQLL- -SSTHV---A G------GYR K-------
 
->TGZ72023.1 hypothetical protein CRM22_002335 [Opisthorchis felineus]
+>TGZ72023.1_hypothetical_protein_CRM22_002335_[Opisthorchis_felineus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ------MENM YAKHP-QLQF EHKVYRML--
@@ -355,7 +355,7 @@ QFDYVFDWTM LKQRTA---A TSSSATADPN YEDPS----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKFF----
 
->TGZ72024.1 hypothetical protein CRM22_002335 [Opisthorchis felineus]
+>TGZ72024.1_hypothetical_protein_CRM22_002335_[Opisthorchis_felineus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 ESV------- ---------- ---------- ---------- ---------- ---------- ---------- --------RG
 E--------- ---------C IINDR-YRLM RKIGSGSFGD IYLGVNQLTG EEVAVKMENM YAKHP-QLQF EHKVYRML--
@@ -372,7 +372,7 @@ QFDYVFDWTM LKQRTA---A TSSSATADPN YEDPS----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKFF----
 
->TGZ72025.1 hypothetical protein CRM22_002335 [Opisthorchis felineus]
+>TGZ72025.1_hypothetical_protein_CRM22_002335_[Opisthorchis_felineus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 ESV------- ---------- ---------- ---------- ---------- ---------- ---------- --------RG
 E--------- ---------C IINDR-YRLM RKIGSGSFGD IYLGVNQLTG EEVAVKMENM YAKHP-QLQF EHKVYRML--
@@ -389,7 +389,7 @@ ENEQS-WSTE ITKRLGAVGA TRLPGWGPRD P----L---C ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->TGZ76118.1 hypothetical protein CRM22_000004 [Opisthorchis felineus]
+>TGZ76118.1_hypothetical_protein_CRM22_000004_[Opisthorchis_felineus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DCQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----LPCST
 D--------- ---------F IIGGK-WRLV RKIGSGAFGA IFLGVNVKTS EEVAVKLERV NARHP-QLYF ESRVYKVL--
@@ -406,7 +406,7 @@ VWDYVFDWTL LRQKGS---T VH-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PVGDNPTE-- -----LKNLA SRLPTDPI-- ---------- ---------- -QPVSK---- ---------- --------
 
->TNN05389.1 Casein kinase I isoform delta isoform 4 [Schistosoma japonicum]
+>TNN05389.1_Casein_kinase_I_isoform_delta_isoform_4_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -423,7 +423,7 @@ TSQF---ANP SCPPNMFLIN NNNNSNPTNP SNNPIQLTSG LHQQQANTNN LYPSIDPNCI IQQQS----- QQQ
 PVQSH-QSTT NNNS---QQV VTQRQLIQPI PHHSTQQQQG SYLLTQQNPV G--------- GSTTVNQIHQ -HQQQQLNAS
 TFGNHHPHNL YHLRLHPETP FYVPATAASS SIGGVGGQNT ESFASTPMLL PSGQIG---A GG-SNSNAFR K-------
 
->TNN05390.1 Casein kinase I isoform delta isoform 4 [Schistosoma japonicum]
+>TNN05390.1_Casein_kinase_I_isoform_delta_isoform_4_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -440,7 +440,7 @@ TSQF---ANP SCPPNMFLIN NNNNSNPTNP SNNPIQLTSG LHQQQANTNN LYPSIDPNCI IQQQS----- QQQ
 PVQSH-QSTT NNNS---QQV VTQRQLIQPI PHHSTQQQQG SYLLTQQNPV G--------- GSTTVNQIHQ -HQQQQLNAS
 TFGNHHPHNL YHLRLHPETP FYVPATAASS SIGGVGGQNT ESFASTPMLL PSGQIG---A GG-SNSNAFR K-------
 
->TNN05391.1 Casein kinase I isoform delta isoform 4 [Schistosoma japonicum]
+>TNN05391.1_Casein_kinase_I_isoform_delta_isoform_4_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -457,7 +457,7 @@ TSQF---ANP SCPPNMFLIN NNNNSNPTNP SNNPIQLTSG LHQQQANTNN LYPSIDPNCI IQQQS----- QQQ
 PVQSH-QSTT NNNS---QQV VTQRQLIQPI PHHSTQQQQG SYLLTQQNPV G--------- GSTTVNQIHQ -HQQQQLNAS
 TFGNHHPHNL YHLRLHPETP FYVPATAASS SIGGVGGQNT ESFASTPMLL PSGQIG---A GG-SNSNAFR K-------
 
->TNN05392.1 Casein kinase I isoform delta isoform 4 [Schistosoma japonicum]
+>TNN05392.1_Casein_kinase_I_isoform_delta_isoform_4_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -474,7 +474,7 @@ TSQF---ANP SCPPNMFLIN NNNNSNPTNP SNNPIQLTSG LHQQQANTNN LYPSIDPNCI IQQQS----- QQQ
 PVQSH-QSTT NNNS---QQV VTQRQLIQPI PHHSTQQQQG SYLLTQQNPV G--------- GSTTVNQIHQ -HQQQQLNAS
 TFGNHHPHNL YHLRLHPETP FYVPATAASS SIGGVGGQNT ESFASTPMLL PSGQIG---A GG-SNSNAFR K-------
 
->TNN05393.1 Casein kinase I isoform delta isoform 2 [Schistosoma japonicum]
+>TNN05393.1_Casein_kinase_I_isoform_delta_isoform_2_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -491,7 +491,7 @@ TSQF---ANP SCPPNMFLIN NNNNSNPTNP SNNPIQLTSG LHQQQANTNN LYPSIDPNCI IQQQS----- QQQ
 PVQSH-QSTT NNNS---QQV VTQRQLIQPI PHHSTQQQQG SYLLTQQNPV G--------- GSTTVNQIHQ -HQQQQLNAS
 TFGNHHPHNL YHLRLHPETP FYVPATAASS SIGGVGGQNT ESFASTPMLL PSGQIG---A GG-SNSNAFR K-------
 
->TNN05394.1 Casein kinase I isoform delta isoform 1 [Schistosoma japonicum]
+>TNN05394.1_Casein_kinase_I_isoform_delta_isoform_1_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- --MTTASF-- ---------- ---------- ---------- ----------
@@ -508,7 +508,7 @@ TSQF---ANP SCPPNMFLIN NNNNSNPTNP SNNPIQLTSG LHQQQANTNN LYPSIDPNCI IQQQS----- QQQ
 PVQSH-QSTT NNNS---QQV VTQRQLIQPI PHHSTQQQQG SYLLTQQNPV G--------- GSTTVNQIHQ -HQQQQLNAS
 TFGNHHPHNL YHLRLHPETP FYVPATAASS SIGGVGGQNT ESFASTPMLL PSGQIG---A GG-SNSNAFR K-------
 
->TNN05395.1 Casein kinase I isoform delta isoform 3 [Schistosoma japonicum]
+>TNN05395.1_Casein_kinase_I_isoform_delta_isoform_3_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -525,7 +525,7 @@ TSQF---ANP SCPPNMFLIN NNNNSNPTNP SNNPIQLTSG LHQQQANTNN LYPSIDPNCI IQQQS----- QQQ
 PVQSH-QSTT NNNS---QQV VTQRQLIQPI PHHSTQQQQG SYLLTQQNPV G--------- GSTTVNQIHQ -HQQQQLNAS
 TFGNHHPHNL YHLRLHPETP FYVPATAASS SIGGVGGQNT ESFASTPMLL PSGQIG---A GG-SNSNAFR K-------
 
->TNN13716.1 Casein kinase I isoform alpha isoform 1 [Schistosoma japonicum]
+>TNN13716.1_Casein_kinase_I_isoform_alpha_isoform_1_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 DLV------- ---------- ---------- ---------- ---------- ---------- ---------- -----NRQRG
 E--------- ---------T LINDK-YRLM RKIGSGSFGD IYLGVNQLTG EEVAIKMENI YAKHP-QLQF EHKVYRLL--
@@ -542,7 +542,7 @@ QFDYVFDWTI LKQRGP---T GTSSNMNALN DDTAN----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GGAQV---- -------SFR RIG-----
 
->TNN13717.1 Casein kinase I isoform alpha isoform 2 [Schistosoma japonicum]
+>TNN13717.1_Casein_kinase_I_isoform_alpha_isoform_2_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ------MENI YAKHP-QLQF EHKVYRLL--
@@ -559,7 +559,7 @@ QFDYVFDWTI LKQRGP---T GTSSNMNALN DDTAN----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GGAQV---- -------SFR RIG-----
 
->TNN13718.1 Casein kinase I isoform alpha isoform 3 [Schistosoma japonicum]
+>TNN13718.1_Casein_kinase_I_isoform_alpha_isoform_3_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 DLV------- ---------- ---------- ---------- ---------- ---------- ---------- -----NRQRG
 E--------- ---------T LINDK-YRLM RKIGSGSFGD IYLGVNQLTG EEVAIKMENI YAKHP-QLQF EHKVYRLL--
@@ -576,7 +576,7 @@ QFDYVFDWTI LKQRGP---T GTSSNMNALN DDTAN----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GGAQV---- -------SFR RIG-----
 
->TNN16060.1 Casein kinase I isoform alpha isoform 1 [Schistosoma japonicum]
+>TNN16060.1_Casein_kinase_I_isoform_alpha_isoform_1_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--
@@ -593,7 +593,7 @@ ST-PCALPAP QVYGNHTHHN IPVQQSQTQQ VLPH-S-HSR ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TQ
 PNAYNAP--- ---------- ---------- ---------- ---------- --GTSV-E-Y GMRCMPTEMR R-------
 
->TNN16061.1 Casein kinase I isoform alpha isoform 2 [Schistosoma japonicum]
+>TNN16061.1_Casein_kinase_I_isoform_alpha_isoform_2_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -610,7 +610,7 @@ ST-PCALPAP QVYGNHTHHN IPVQQSQTQQ VLPH-S-HSR ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TQ
 PNAYNAP--- ---------- ---------- ---------- ---------- --GTSV-E-Y GMRCMPTEMR R-------
 
->TNN16451.1 Casein kinase I isoform alpha isoform 1 [Schistosoma japonicum]
+>TNN16451.1_Casein_kinase_I_isoform_alpha_isoform_1_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 ESQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RISSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRYC-QLYF ESKVYRAL--
@@ -627,7 +627,7 @@ MKTVLMLADQ MLWRLDFIHA KGFIHRDIKP DNFLMGIGRQ CNRVFIIDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->TNN16452.1 Casein kinase I isoform alpha isoform 4 [Schistosoma japonicum]
+>TNN16452.1_Casein_kinase_I_isoform_alpha_isoform_4_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 ESQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RISSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRYC-QLYF ESKVYRAL--
@@ -644,7 +644,7 @@ INPFI-NLVF ATSSLQSKYI DYVIVIIVPV SIISQSCVLI RLDRF----- --------IE TPRRDYFIMN ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->TNN16453.1 Casein kinase I isoform alpha isoform 3 [Schistosoma japonicum]
+>TNN16453.1_Casein_kinase_I_isoform_alpha_isoform_3_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 ESQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RISSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRYC-QLYF ESKVYRAL--
@@ -661,7 +661,7 @@ MKTVLMLADQ MLWRLDFIHA KGFIHRDIKP DNFLMGIGRQ CNRVFIIDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------L
 
->TNN16454.1 Casein kinase I isoform alpha isoform 2 [Schistosoma japonicum]
+>TNN16454.1_Casein_kinase_I_isoform_alpha_isoform_2_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 ESQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RISSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRYC-QLYF ESKVYRAL--
@@ -678,7 +678,7 @@ VWDYVFDWTL LRQKAS---A IE-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PPG------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->TNN16455.1 Casein kinase I isoform alpha isoform 2 [Schistosoma japonicum]
+>TNN16455.1_Casein_kinase_I_isoform_alpha_isoform_2_[Schistosoma_japonicum]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 ESQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RISSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRYC-QLYF ESKVYRAL--
@@ -695,7 +695,7 @@ VWDYVFDWTL LRQKAS---A IE-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PPG------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->TPP59905.1 Casein kinase I alpha [Fasciola gigantica]
+>TPP59905.1_Casein_kinase_I_alpha_[Fasciola_gigantica]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ------MENI YSRHP-QLQF EHKVYRLL--
@@ -712,7 +712,7 @@ QFDYVFDWTM LKQRGA---A GSSNAAIT-N EDGVP----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKAT----
 
->TPP62841.1 Testis-specific serine/threonine-protein kinase 3 [Fasciola gigantica]
+>TPP62841.1_Testis-specific_serine/threonine-protein_kinase_3_[Fasciola_gigantica]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSSTF
 D--------- ---------F VIGGK-WRLL RKIGSGSFGA IYLGVNIHTA EEVAVKLERV NARHP-QLYF ESRVYRVL--
@@ -729,7 +729,7 @@ VWDYVFDWTL LRQKAS---A MQ-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------G
 AAAVN----- ------SNAA AIIADNGT-- ---------- ---------- -KGI-KDLSY TYQAETTAAR SD------
 
->TPP64634.1 Casein kinase I delta, partial [Fasciola gigantica]
+>TPP64634.1_Casein_kinase_I_delta,_partial_[Fasciola_gigantica]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----VTIWDI
 SF-------- ---------S SNSTN-YRLP HT----TFLS VLLGTDIAKG EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -746,7 +746,7 @@ PPQFAVSAGQ IHPMGMYVVT SSNSTPLGAG G-NSI----- --QPSATSYY SHALDPSQPH MAHPTAAVYT VQT
 AQQATMQTAQ P--------- ---------- -------TGQ PYMIAAPGP- ---------- -----YAIQP -PQPQQQTQV
 MTAMHHPH-A YHAHSQPSGA LYIPTGAPGG ---------A ESFG-TPLLA PSASAV---A G------AYR K-------
 
->TPP64958.1 Casein kinase I epsilon [Fasciola gigantica]
+>TPP64958.1_Casein_kinase_I_epsilon_[Fasciola_gigantica]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 SSKS------ ---------- ---------- ---------- -------LAE SN-------- ---DV----- ----SYDSSS
 E--------- ---------F VINKE-WKLI KRIGAGSFGE IFLATNRKTN EEAAVKLEVY KSGVPVQLQT EFHLLRTL--
@@ -763,7 +763,7 @@ KYDCQFDW-- -NDSAL---G TKD------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->TPP67859.1 Casein kinase I alpha [Fasciola gigantica]
+>TPP67859.1_Casein_kinase_I_alpha_[Fasciola_gigantica]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MV
 SVK------- ---------- ---------- ---------- ---------- ---------- ---------- ------PSNV
 N--------- ---------L VISGK-WRLV RKIGGGSFGD IYLGHNISTG EEVAVKLEPS SARHP-QLLY ESRVYRIL--
@@ -780,7 +780,7 @@ AQTRMLLHNL IGRGPHTSSN QPQSQQQQQQ LLHQQLSDNN ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------PH
 SGAYNAA--- ---------- ---------- ---------- ---------- -AGTSG-A-Y GIRCVMPDLR R-------
 
->KAA0189352.1 Casein kinase I alpha, partial [Fasciolopsis buski]
+>KAA0189352.1_Casein_kinase_I_alpha,_partial_[Fasciolopsis_buski]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -797,7 +797,7 @@ AQTRMLLHNL VGRGHHTSN- ---QPQSQQQ LLQQQLSNSN ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------PH
 SGAYNAA--- ---------- ---------- ---------- ---------- -AGTSG-A-Y GIRCVMPDLR R-------
 
->KAA0192505.1 Casein kinase I alpha, partial [Fasciolopsis buski]
+>KAA0192505.1_Casein_kinase_I_alpha,_partial_[Fasciolopsis_buski]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -814,7 +814,7 @@ LKTVLILAEQ MLWRIENIHN RGLIHRDIKP DNFLMGMGPT CNRVYVVDFG LAKKYRLVSN SFITSLLR-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAA0197258.1 Casein kinase I isoform delta [Fasciolopsis buski]
+>KAA0197258.1_Casein_kinase_I_isoform_delta_[Fasciolopsis_buski]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYL------- ---------- ---------- ----------
@@ -831,7 +831,7 @@ PQQFAVTSGQ LHPVGMYVVT SSNSTPLGPG C-GPI----- --QPSATSYY SHALDPSQAH VAHPTAAVYT VQT
 PPQAAMQTTQ P--------- ---------- -------TGQ PYMIAAPGP- ---------- -----YAIQP QPPQQQQTQV
 ITAMHHPH-A YHAHAQPSGT LYIPTGAAGG ---------A ENFA-APVLA PSASAV---A G------AFR K-------
 
->KAA0199045.1 Casein kinase I alpha [Fasciolopsis buski]
+>KAA0199045.1_Casein_kinase_I_alpha_[Fasciolopsis_buski]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -848,7 +848,7 @@ VWDYVFDWTL LRQESS---A MQ-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 EAT------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAA0200118.1 Casein kinase I epsilon [Fasciolopsis buski]
+>KAA0200118.1_Casein_kinase_I_epsilon_[Fasciolopsis_buski]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSSTF
 D--------- ---------F VIGGK-WRLL RKIGSGSFGA IYLGVNIHTA EEVAVKLERV NARHP-QLYF ESRVYRVL--
@@ -865,7 +865,7 @@ VWDYVFDWTL LRQKAS---A MQ-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------G
 ATLVN----- ------SNVA GMIPENGA-- ---------- ---------- -KGTNKDLTY VYQTEAAAAR PD------
 
->KAA0200145.1 Casein kinase I alpha [Fasciolopsis buski]
+>KAA0200145.1_Casein_kinase_I_alpha_[Fasciolopsis_buski]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ------MENI YSRHP-QLQF EHKVYRIL--
@@ -882,7 +882,7 @@ QFDYVFDWTM LKQRGA---A GSSNAAIT-G EDGVP----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKAT----
 
->KAA0200603.1 Casein kinase I epsilon [Fasciolopsis buski]
+>KAA0200603.1_Casein_kinase_I_epsilon_[Fasciolopsis_buski]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 SSKS------ ---------- ---------- ---------- -------LAE SN-------- ---DA----- ----SYDSSS
 E--------- ---------F VINKE-WKLI KRIGAGSFGE IFLATNRKTN EEAAVKLEVY KSGVPVQLQT EFHLLRTL--
@@ -899,7 +899,7 @@ KYDCQFDW-- -NDSAL---G SKD------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAF5396292.1 Casein kinase I delta [Paragonimus heterotremus]
+>KAF5396292.1_Casein_kinase_I_delta_[Paragonimus_heterotremus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 STKS------ ---------- ---------- ---------- -------LAD SN-------- ---DG----- ----SIDSSA
 E--------- ---------F LVNRE-WRLI KRIGAGSFGE IFLAVHRKTN EQAAVKLEVY KSGVPVQLQT EFHLLRAL--
@@ -916,7 +916,7 @@ KYDCQFDW-- -NENLG---N TKG------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAF5397719.1 Casein kinase I [Paragonimus heterotremus]
+>KAF5397719.1_Casein_kinase_I_[Paragonimus_heterotremus]
 MVRI------ ---------- ---------- ---------- ---VFYF--- ---------- ---------- -----QAPME
 DLQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----IPRGG
 E--------- ---------F IVAGK-WRLV RQIGHGSFGA IFLGININTS EEVAVKLERI YARHP-QLHF ESRVYKCL--
@@ -933,7 +933,7 @@ MKTVLMLADQ MLWRLEFLHS KNFIHRDIKP DNFLMGIGRN CNKVFLVDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAF5398319.1 hypothetical protein PHET_08695 [Paragonimus heterotremus]
+>KAF5398319.1_hypothetical_protein_PHET_08695_[Paragonimus_heterotremus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 ERC------- ---------- ---------- ---------- ---------- ---------- ---------- ------VGRG
 E--------- ---------I LINDK-YRLM RKIGSGSFGD IYLGVNLLTG EEVAVKMENI YAKHP-QLQF EHRVYRML--
@@ -950,7 +950,7 @@ QFDYVFDWTI LKQRGI---V GSSSNTCAPN DEAGG----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKFL----
 
->KAF5400699.1 Casein kinase i isoform delta protein [Paragonimus heterotremus]
+>KAF5400699.1_Casein_kinase_i_isoform_delta_protein_[Paragonimus_heterotremus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -967,7 +967,7 @@ VWDYVFDWTL LRQKAS---V MQ-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 AVGDN----- -----LKEST HRLPTDIA-- ---------- ---------- -QPSSK---- ---------- --------
 
->KAF5402788.1 hypothetical protein PHET_03847 [Paragonimus heterotremus]
+>KAF5402788.1_hypothetical_protein_PHET_03847_[Paragonimus_heterotremus]
 M--------- ---------- ---------- ---------- ---------- ---------- ---AFLVPA- --------TD
 FSK------- ---------- ---------- ---------- ---------- ---------- ---QL----- ----PDLSHK
 E--------- ---------Y IVGGK-WKLV RKIGAGSFGD IYLGHNIING EEVAIKLEAN TARHP-QLFY ESKVYRII--
@@ -984,7 +984,7 @@ HLERMRLFVV ---NEPSSIN QQ-QKLHLKQ YLQ--LTHTG ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------GNS
 NTAHNHPN-- ---------- ---TGSGG-- ---------- ---------- -AGGGG-AEY GMRCVASDLH R-------
 
->KAF5402904.1 Casein kinase I delta [Paragonimus heterotremus]
+>KAF5402904.1_Casein_kinase_I_delta_[Paragonimus_heterotremus]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDITKG DEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -1001,7 +1001,7 @@ SRGMVSGAQ- ATAPALQVVR LQ-PTEPPQQ ALDST----- ---HYYNPSA EQPV------ ---------- ---
 PVQQQQQQQA T--------- ---------- --------QA AYLLTQS--- ---------- ------QIP- -HQPHPLPQS
 MATMHHPHHA YHSHAGP--- LCMPT-AGGT ---------A ENFN-SPVL- -SAAQV---A G------AFR K-------
 
->KAF6769659.1 hypothetical protein AHF37_11855 [Paragonimus kellicotti]
+>KAF6769659.1_hypothetical_protein_AHF37_11855_[Paragonimus_kellicotti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 STKS------ ---------- ---------- ---------- -------LAD SN-------- ---DG----- ----SIDSSA
 E--------- ---------F LVNRE-WRLI KRIGAGSFGE IFLAVHRKTN EQAAVKLEVY KSGVPVQLQT EFHLLRAL--
@@ -1018,7 +1018,7 @@ KYDCQFDW-- -NENC----- ---------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAF6773883.1 hypothetical protein AHF37_07289 [Paragonimus kellicotti]
+>KAF6773883.1_hypothetical_protein_AHF37_07289_[Paragonimus_kellicotti]
 M--------- ---------- ---------- ---------- ---------- ---------- ---AFLVPP- --------TD
 FSK------- ---------- ---------- ---------- ---------- ---------- ---QL----- ----PDLSHK
 E--------- ---------Y IVGGK-WKLV RKIGAGSFGD IYLGHNIING EEVAIKLEAN TARHP-QLFY ESKVYRII--
@@ -1035,7 +1035,7 @@ HLERMRLFVV ---NEPSSIN QQ-QKLHLKQ YLQ--LTHTG ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------GNS
 TTAHNHPN-- ---------- ---TGSGG-- ---------- ---------- -AGGGG-AEY GMRCVASDLH R-------
 
->KAF6777714.1 hypothetical protein AHF37_02661, partial [Paragonimus kellicotti]
+>KAF6777714.1_hypothetical_protein_AHF37_02661,_partial_[Paragonimus_kellicotti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -PCSLRPAC- ---------- ------FI--
@@ -1052,7 +1052,7 @@ SRGMVSGAQ- ATAPALQVVR LQ-PTEPPQQ ALDST----- ---HFYNPSA DQPV------ ---------- ---
 PVQQQQQQQA T--------- ---------- --------QA AYLLTQS--- ---------- ------QIP- -HQPHPLPQS
 LSAMHHPHHA YHSHAGQ--- LCMPT-AGGT ---------A ETFN-SPVL- -SAAQV---A G------AFR K-------
 
->KAF6779818.1 hypothetical protein AHF37_00675 [Paragonimus kellicotti]
+>KAF6779818.1_hypothetical_protein_AHF37_00675_[Paragonimus_kellicotti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 DLQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----IPRGG
 E--------- ---------F IVAGK-WRLV RQIGHGSFGA IFLGININTS EEVAVKLERI YARHP-QLHF ESRVYKCL--
@@ -1069,7 +1069,7 @@ MKTVLMLADQ MLWRLEFLHS KNFIHRDIKP DNFLMGIGRN CNKVFLVDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAF6779922.1 hypothetical protein AHF37_00568 [Paragonimus kellicotti]
+>KAF6779922.1_hypothetical_protein_AHF37_00568_[Paragonimus_kellicotti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 ERC------- ---------- ---------- ---------- ---------- ---------- ---------- ------VGRG
 E--------- ---------I LINDK-YRLM RKIGSGSFGD IYLGVNLLTG EEVAVKMENI YAKHP-QLQF EHRVYRML--
@@ -1086,7 +1086,7 @@ QFDYVFDWTI LKQRGI---V GSSSNTCAPN DEAGG----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKFL----
 
->KAF7250680.1 hypothetical protein EG68_09109, partial [Paragonimus miyazakii]
+>KAF7250680.1_hypothetical_protein_EG68_09109,_partial_[Paragonimus_miyazakii]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---GK-WKLV RKIGAGSFGD IYLGHNVING EEVAIKLEAN TARHP-QLFY ESKVYRII--
@@ -1103,7 +1103,7 @@ HLERMRLFVV ---NEPSSIN QQ-QKLQLKQ YLQ--LTHTG ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------GNS
 TTAHNHPN-- ---------- ---TGSGG-- ---------- ---------- -AGGGG-AEY GMRCVASDLH R-------
 
->KAF7254920.1 hypothetical protein EG68_08234 [Paragonimus miyazakii]
+>KAF7254920.1_hypothetical_protein_EG68_08234_[Paragonimus_miyazakii]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 ERC------- ---------- ---------- ---------- ---------- ---------- ---------- ------VGRG
 E--------- ---------I LINDK-YRLM RKIGSGSFGD IYLGVNLLTG EEVAVKMENI YAKHP-QLQF EHRVYRML--
@@ -1120,7 +1120,7 @@ QFDYVFDWTI LKQRGT---V GSSSNTCAPN DETGG----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKFL----
 
->KAF7255689.1 hypothetical protein EG68_06539 [Paragonimus miyazakii]
+>KAF7255689.1_hypothetical_protein_EG68_06539_[Paragonimus_miyazakii]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 STKS------ ---------- ---------- ---------- -------LAD SN-------- ---DG----- ----SIDSSA
 E--------- ---------F LVNRE-WRLI KRIGAGSFGE IFLAVHRKTN EQAAVKLEVY KSGVPVQLQT EFHLLRAL--
@@ -1137,7 +1137,7 @@ KYDCQFDW-- -NENLG---N TKG------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAF7256861.1 hypothetical protein EG68_05859 [Paragonimus miyazakii]
+>KAF7256861.1_hypothetical_protein_EG68_05859_[Paragonimus_miyazakii]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 DLQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----IPRGG
 E--------- ---------F IVAGK-WRLV RQIGHGSFGA IFLGININTS EEVAVKLERI YARHP-QLHF ESRVYKCL--
@@ -1154,7 +1154,7 @@ VWDYVFDWTL LRQKAS---V MQ-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 AVGDN----- -----LKDST HRLTTDIA-- ---------- ---------- -QPSSK---- ---------- --------
 
->KAF7257792.1 hypothetical protein EG68_05351 [Paragonimus miyazakii]
+>KAF7257792.1_hypothetical_protein_EG68_05351_[Paragonimus_miyazakii]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MV
 TNGRRT---- ---------- ---------- ---------- ---------- ---------- ---QYG---- ---CIVYTDL
 EI-------- --------AL TMRNC----- ---------- ---GTDITKG DEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -1171,7 +1171,7 @@ SRGMVPGAQ- TTAPALQVVR LQ-PTEPPQQ ALDST----- ---HFYNPSA EQPV------ ---------- ---
 PVQQQQQQA- ---------- ---------- -------TQA AYLLTQS--- ---------- ------QIP- -HQPHPLPQS
 MSTMHHPHHA YHSHAGP--- LCMPT-AGGT ---------A ENFN-SPVL- -SAAQV---A G------AFR K-------
 
->KAF8561865.1 hypothetical protein P879_08969 [Paragonimus westermani]
+>KAF8561865.1_hypothetical_protein_P879_08969_[Paragonimus_westermani]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDITKG DEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -1188,7 +1188,7 @@ KYERI-CEKK METPVEVLCE GYPGTFVSDL Q---GL---C LG-------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -TVSLI---- ---------- --------
 
->KAF8565040.1 hypothetical protein P879_07057 [Paragonimus westermani]
+>KAF8565040.1_hypothetical_protein_P879_07057_[Paragonimus_westermani]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 ERC------- ---------- ---------- ---------- ---------- ---------- ---------- ------VGRG
 E--------- ---------F LINDK-YRLM RKIGSGSFGD IYLGVNLLTG EEVAVKMENI YAKHP-QLQF EHTVYRIL--
@@ -1205,7 +1205,7 @@ QFDYVFDWTI LKQRGI---V GSSSKTCAPN DEAGG----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKFL----
 
->KAF8566309.1 hypothetical protein P879_07931 [Paragonimus westermani]
+>KAF8566309.1_hypothetical_protein_P879_07931_[Paragonimus_westermani]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 STKS------ ---------- ---------- ---------- -------LAD SN-------- ---DG----- ----SIDSSA
 E--------- ---------F LVNRE-WRLI KRIGAGSFGE IFLAAHRKTN EQAAVKLEVY KSGVPVQLQT EFHLLRAL--
@@ -1222,7 +1222,7 @@ KYDCQFDW-- -NENLG---N AND------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->KAF8567406.1 hypothetical protein P879_07364 [Paragonimus westermani]
+>KAF8567406.1_hypothetical_protein_P879_07364_[Paragonimus_westermani]
 M--------- ---------- ---------- ---------- ---------- ---------- ---AFLVPP- --------TE
 FSK------- ---------- ---------- ---------- ---------- ---------- ---QL----- ----PDLSHK
 E--------- ---------Y IIGGK-WKLV RKIGAGSFGD IYLGHNVTTG EEVAIKLEAN AARHP-QLFY ESKVYKII--
@@ -1239,7 +1239,7 @@ HLERMRLFVV ---NEPSSIN QQ-QKLHLKQ YLQ--LTHTG ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------GNS
 TTAHNHPN-- ---------- ---TGSGG-- ---------- ---------- -AGGGG-AEY GMRCVASDLH R-------
 
->KAF8571938.1 hypothetical protein P879_00189 [Paragonimus westermani]
+>KAF8571938.1_hypothetical_protein_P879_00189_[Paragonimus_westermani]
 MNQV------ ---------- ---------- ------ETSQ CEGCDQL--- ---------- ---------- -----WAPME
 DLQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----IPRGS
 E--------- ---------F IVAGK-WRLV RQIGHGSFGA IFLGININTS EEVAVKLERI HARHP-QLYF ESRVYKYL--
@@ -1256,7 +1256,7 @@ VWDYVFDWTL LRQKAS---V MQ-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 AVGDN----- -----LKDST HRLPTDIA-- ---------- ---------- -QRSSK---- ---------- --------
 
->VDO68591.1 unnamed protein product, partial [Schistosoma mattheei]
+>VDO68591.1_unnamed_protein_product,_partial_[Schistosoma_mattheei]
 ---------- ---------- ---------- ---------- VRCC------ ---------- ---------- ----SNVVLT
 YSC------- ---------- ---------- ---------- ---------- ---------- ---------- -----FHTRK
 T--------- ---------T VIYHYYY--- -------YCY YFIGTDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -1273,7 +1273,7 @@ LKTVLLLADQ TITRVEYIQN KNFIHR---- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDO71693.1 unnamed protein product [Schistosoma mattheei]
+>VDO71693.1_unnamed_protein_product_[Schistosoma_mattheei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1290,7 +1290,7 @@ TSQF---ANP VCPSNMFLMN NNHNNSNANN ---PIPMTGG L--QQQPNTN LYPSIDSNCT IQHPS----- QQQ
 PVQSQPQSNP NNNNTNHQQV VTSRQIVQPI SHH---PQQN SYLLTQQNSI GQVI--GGNS SGTTNHQIH- -HHQQQLNAS
 TTFGNHPHNL YHLRLHPE-T FYVPATASGQ T---SNVNNN ENFTSTPMIL PSGQQV---G G--VGSNAFR K-------
 
->VDO78085.1 unnamed protein product [Schistosoma mattheei]
+>VDO78085.1_unnamed_protein_product_[Schistosoma_mattheei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ------ML-- ---------- ---------- ------IF--
@@ -1307,7 +1307,7 @@ AA-QCALPAP QVYGNHNHHN IPVQQSQPQQ VLPH-T-HSR ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TQ
 TNAYNAP--- ---------- ---------- ---------- ---------- --GTSV-E-Y GMRCMPTEMR R-------
 
->VDO83521.1 unnamed protein product [Schistosoma mattheei]
+>VDO83521.1_unnamed_protein_product_[Schistosoma_mattheei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1324,7 +1324,7 @@ VWDYVFDWTL LRQKAS---A IE-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PPGQTTS--- ---------- ----TNVA-- ---------- ---------- -AATSV---- ---KE----- --------
 
->VDP40293.1 unnamed protein product [Schistosoma mattheei]
+>VDP40293.1_unnamed_protein_product_[Schistosoma_mattheei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 DLV------- ---------- ---------- ---------- ---------- ---------- ---------- -----NRQRT
 D--------- ---------I LVNDK-YRLM RKIGSGSFGD IYLGVNQLTG EEVAVKMENI YAKHP-QLQF EHKVYRLL--
@@ -1341,7 +1341,7 @@ QFDYVFDWTI LKQRGP---A GTSS---TLN EDTS------ ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GSTQV---- -------PFG RTG-----
 
->VDP60032.1 unnamed protein product [Schistosoma mattheei]
+>VDP60032.1_unnamed_protein_product_[Schistosoma_mattheei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RLSSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRHC-QLYF ESKVYRVL--
@@ -1358,7 +1358,7 @@ MKTVLMLADQ MLWRLDFIHA KGFIHRDIKP DNFLMGIGRQ CNRVFIIDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDP67991.1 unnamed protein product, partial [Schistosoma mattheei]
+>VDP67991.1_unnamed_protein_product,_partial_[Schistosoma_mattheei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRYS-----
@@ -1375,7 +1375,7 @@ ETAVI-SASK VNQKVRG--- ------QHWI S--------A ASIAL----- -------IDA ---------- -RK
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ------P--- ---------- ---------- ---------- ---------- -PGS---E-- ---------- --------
 
->VDO64427.1 unnamed protein product [Schistosoma curassoni]
+>VDO64427.1_unnamed_protein_product_[Schistosoma_curassoni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 DLV------- ---------- ---------- ---------- ---------- ---------- ---------- -----NRQRT
 D--------- ---------I LVNDK-YRLM RKIGSGSFGD IYLGVNQLTG EEVAVKMENI YAKHP-QLQF EHKVYRLL--
@@ -1392,7 +1392,7 @@ QFDYVFDWTI LKQRGP---A GTSS---TLN EDTS------ ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GSTQV---- -------PFG RTG-----
 
->VDO71960.1 unnamed protein product, partial [Schistosoma curassoni]
+>VDO71960.1_unnamed_protein_product,_partial_[Schistosoma_curassoni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---GTDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -1409,7 +1409,7 @@ LKTVLLLADQ TITRVEYIQN KNFIHRCARN RN-------- ---------- --RGF----- -------S-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDO93633.1 unnamed protein product [Schistosoma curassoni]
+>VDO93633.1_unnamed_protein_product_[Schistosoma_curassoni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RLSSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRHC-QLYF ER--------
@@ -1426,7 +1426,7 @@ MKTVLMLADQ MLWRLDFIHA KGFIHRDIKP DNFLMGIGRQ CNRVFIIDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDP63971.1 unnamed protein product [Schistosoma curassoni]
+>VDP63971.1_unnamed_protein_product_[Schistosoma_curassoni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1443,7 +1443,7 @@ TSQF---ANP ACPSNMFLMN NNHNNSNANN ---PISMTGG L--QQQPNTN LYPSIDSNCT IQHPS----- QQQ
 PVQSQPQSNI NNNNTNHQQV VTSRQIVQPI SHH---SQQN SYLLTQQSSI GQVI--GGNS SGTTNHQIH- -HHQQQLNAS
 TTFGNHPHNL YHLRLHPE-T FYVPATASGQ T---SNINNN ENFTSTPMIL PSGQQV---G G--VGSNAFR K-------
 
->VDP72222.1 unnamed protein product, partial [Schistosoma curassoni]
+>VDP72222.1_unnamed_protein_product,_partial_[Schistosoma_curassoni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1460,7 +1460,7 @@ SIELLLSQLP LISYYSPKCS SVSINPSKYL D--------- ---------- ---------- VPNIK----- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDO61751.1 unnamed protein product [Schistosoma margrebowiei]
+>VDO61751.1_unnamed_protein_product_[Schistosoma_margrebowiei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- --MYP-HLRV EVH-------
@@ -1477,7 +1477,7 @@ TSQF---ASP ACPSNMFLMN NNHNNSNANN ---PISITGG LQQQQQPNAN LYPSIDSNCT IQHPS----- QQQ
 PVQSQPQSNT NNNNTNHQQV VTSRQIVQPV SHH---PQQN SYLLTQQNSI GQVI--GGNS SGTTNHQIH- -HHQQQLNAS
 TTFGNHPHNL YHLRLHPE-T FYVPATASGQ T---SNINNN ENFTSTPMIL PSGQQV---G G--VGSNAFR K-------
 
->VDO90103.1 unnamed protein product [Schistosoma margrebowiei]
+>VDO90103.1_unnamed_protein_product_[Schistosoma_margrebowiei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RLSSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRHC-QLYF ESKVYRVL--
@@ -1494,7 +1494,7 @@ MKTVLMLADQ MLWRLDFIHA KGFIHRDIKP DNFLMGIGRQ CNRVFIIDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDO90231.1 unnamed protein product [Schistosoma margrebowiei]
+>VDO90231.1_unnamed_protein_product_[Schistosoma_margrebowiei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1511,7 +1511,7 @@ VWDYVFDWTL LRQKAS---A IE-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PLGQTTS--- ---------- ----TNVA-- ---------- ---------- -AATSV---- ---KE----- --------
 
->VDP07785.1 unnamed protein product [Schistosoma margrebowiei]
+>VDP07785.1_unnamed_protein_product_[Schistosoma_margrebowiei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--
@@ -1528,7 +1528,7 @@ AKTVLTLAEQ MLWRIECVHY RGLIHRDIKP DNFLMGIGPH CNRVFIVDFG LAKRF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDP16470.1 unnamed protein product [Schistosoma margrebowiei]
+>VDP16470.1_unnamed_protein_product_[Schistosoma_margrebowiei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 DLV------- ---------- ---------- ---------- ---------- ---------- ---------- -----NRQRT
 D--------- ---------I LVNDK-YRLM RKIGSGSFGD IYLGVNQLTG EEVAVKMENI YAKHP-QLQF EHKVYRLL--
@@ -1545,7 +1545,7 @@ QFDYVFDWTI LKQRGP---A GTSS---TLN EDTS------ ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GSTQV---- -------PFG RTG-----
 
->VDP50808.1 unnamed protein product, partial [Schistosoma margrebowiei]
+>VDP50808.1_unnamed_protein_product,_partial_[Schistosoma_margrebowiei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---GTDITND EDVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -1562,7 +1562,7 @@ LKTVLLLADQ TITRVEYIQN KNFIHRCTRN RN-------- ---------- --RGF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDP52713.1 unnamed protein product [Schistosoma margrebowiei]
+>VDP52713.1_unnamed_protein_product_[Schistosoma_margrebowiei]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ------ML-- ---------- ---------- ------IF--
@@ -1579,7 +1579,7 @@ AA-QCALPAP QVYGNHNHHN IPVQQSQPQQ VLPH-A-HSR ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TQ
 TNAYNAP--- ---------- ---------- ---------- ---------- --GTSV-E-Y GMRCMPTEMR R-------
 
->VDP65487.1 unnamed protein product [Echinostoma caproni]
+>VDP65487.1_unnamed_protein_product_[Echinostoma_caproni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------M-
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1596,7 +1596,7 @@ AQTRMILHSL VGRGHHSSSN QP-QPQQQQQ LLQQQL-NNN ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TH
 SGVYNAA--- ---------- ---------- ---------- ---------- -AGTSG-A-Y GMRCVMPDLR R-------
 
->VDP70580.1 unnamed protein product [Echinostoma caproni]
+>VDP70580.1_unnamed_protein_product_[Echinostoma_caproni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 SSKS------ ---------- ---------- ---------- -------LAE SN-------- ---DI----- ----SYDSSS
 E--------- ---------F VINKE-WKLI KRIGAGSFGE IFLATHRRTN EEAAVKLEVY KSGVPVQLQT EFHLLRTL--
@@ -1613,7 +1613,7 @@ KYDCQFDW-- -NENAL---G VRH------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDP73672.1 unnamed protein product, partial [Echinostoma caproni]
+>VDP73672.1_unnamed_protein_product,_partial_[Echinostoma_caproni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1630,7 +1630,7 @@ KYERI-SEKK MQTPVEVLCE GYPG------ ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDP85183.1 unnamed protein product [Echinostoma caproni]
+>VDP85183.1_unnamed_protein_product_[Echinostoma_caproni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----LSSTC
 D--------- ---------F IIGGK-WRLL RKIGSGSFGA IFLGVNIHTS EEVAVKLERV NARHP-QLYF ESRVYRVL--
@@ -1647,7 +1647,7 @@ MKTVLMLADQ MLWRLDFLHA RNFIHRDIKP DNFLMGIGRN CNKVFLIDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDP87809.1 unnamed protein product [Echinostoma caproni]
+>VDP87809.1_unnamed_protein_product_[Echinostoma_caproni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 DSN------- ---------- ---------- ---------- ---------- ---------- ---------- ------RFRA
 D--------- ---------F LINDR-YRLM RKIGAGSFGD IYLGVNHLTG EEVAVKMENI YSRHP-QLQF EHKVYRLL--
@@ -1664,7 +1664,7 @@ QFDYVFDWTM LKQRGA---A GSSNAAGA-I EDGAG----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKATQ---
 
->VDP89066.1 unnamed protein product [Echinostoma caproni]
+>VDP89066.1_unnamed_protein_product_[Echinostoma_caproni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------M-
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1681,7 +1681,7 @@ LWDYVFDWTL LRQKAS---A MQ-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ATAVN----- ------SNAV GMIPEVGG-- ---------- ---------- -KGNKD-LNY AFQAEAAAAP SE------
 
->VDP91238.1 unnamed protein product [Echinostoma caproni]
+>VDP91238.1_unnamed_protein_product_[Echinostoma_caproni]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 TAK------- ---------- ---------- ---------- ---------- ---------- ---------- ------QSNV
 N--------- ---------L VIAGK-WRLV RKIGGGSFGD IYLGHNISNG EEVAIKLEPS SARHP-QLLY ESRVYRIL--
@@ -1698,7 +1698,7 @@ VGDSFSNINV LRISDC---S FKSVKLSFTP ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDQ02214.1 unnamed protein product [Trichobilharzia regenti]
+>VDQ02214.1_unnamed_protein_product_[Trichobilharzia_regenti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1715,7 +1715,7 @@ AMAFA----- ----KLFI-- ---------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- --LLTSM--- ---------- ---------- --------CR
 VMSINNVM-- ---------- ---------- ---------- ---------- ---------- ---CPLSSLN EEQLLSKL
 
->VDQ06107.1 unnamed protein product [Trichobilharzia regenti]
+>VDQ06107.1_unnamed_protein_product_[Trichobilharzia_regenti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1732,7 +1732,7 @@ VMSINNVM-- ---------- ---------- ---------- ---------- ---------- ---CPLSSLN EEQ
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDQ06491.1 unnamed protein product [Trichobilharzia regenti]
+>VDQ06491.1_unnamed_protein_product_[Trichobilharzia_regenti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 SSKS------ ---------- ---------- ---------- -------LGE SN-------- ---EI----- ----SVDSNS
 E--------- ---------F VVNKE-WKLI KRIGAGSFGE IFLALNKRTK EQ-------- ---------- ---LLKAL--
@@ -1749,7 +1749,7 @@ KYDFQFDWIP QNSQSG---N QSN------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDQ08392.1 unnamed protein product [Trichobilharzia regenti]
+>VDQ08392.1_unnamed_protein_product_[Trichobilharzia_regenti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MA
 DIA------- ---------- ---------- ---------- ---------- ---------- ---------- ------RMKS
 D--------- ---------V LINDK-YRLM RKIGSGSFGD IYLGLNQLTG EEVAIKVENI YAKHP-QLQF EHKVYRLL--
@@ -1766,7 +1766,7 @@ QFDYVFDWTI LKQRGP---V GPSS---RGG NTSV------ ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->VDQ08826.1 unnamed protein product [Trichobilharzia regenti]
+>VDQ08826.1_unnamed_protein_product_[Trichobilharzia_regenti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--
@@ -1783,7 +1783,7 @@ TN-PRALAAP QVYGNHNHHS LPVQQS--QQ VLPH-A-HNR ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TQ
 PNAYNAP--- ---------- ---------- ---------- ---------- --GTSV-G-Y SMRCMPTEMR R-------
 
->VDQ16955.1 unnamed protein product [Trichobilharzia regenti]
+>VDQ16955.1_unnamed_protein_product_[Trichobilharzia_regenti]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1800,7 +1800,7 @@ VIVLVFLTFT VKKMFKITYT TD-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->XP_012792480.2 protein kinase, partial [Schistosoma haematobium]
+>XP_012792480.2_protein_kinase,_partial_[Schistosoma_haematobium]
 ---------- ---------- ---------- ---------- ---------- ---------- -------PG- ---KQSVNMA
 DLV------- ---------- ---------- ---------- ---------- ---------- ---------- -----NRQRT
 D--------- ---------I LVNDK-YRLM RKIGSGSFGD IYLGVNQLTG EEVAVKMENI YAKHP-QLQF EHKVYRLL--
@@ -1817,7 +1817,7 @@ QFDYVFDWTI LKQRGP---A GTSS---TLN EDTS------ ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GSTQV---- -------PFG RTG-----
 
->XP_012793277.1 serine/threonine kinase [Schistosoma haematobium]
+>XP_012793277.1_serine/threonine_kinase_[Schistosoma_haematobium]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGTDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -1834,7 +1834,7 @@ TSQF---ANP ACPSNMFLMN NNHNNSNANN ---PISVTGG L--QQQPNTN LYPSIDSNCT IQHPS----- QQQ
 PVQSQPQSNI NNNNTNHQQV VTSRQIVQPI SHH---PQQN SYLLTQQSSI GQVI--GGNS SGTTNHQIH- -HHQQQLNAS
 TTFGNHPHNL YHLRLHPE-T FYVPATASGQ T---SNINNN ENFTSTPMIL PSGQQV---G G--VGSNAFR K-------
 
->XP_012802018.1 kinase [Schistosoma haematobium]
+>XP_012802018.1_kinase_[Schistosoma_haematobium]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RLSSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRHC-QLYF ESKVYRVL--
@@ -1851,7 +1851,7 @@ MKTVLMLADQ MLWRLDFIHA KGFIHRDIKP DNFLMGIGRQ CNRVFIIDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 -PGKTIE--- ---------- ----SP---- ---------- ---------- ---------- ---------- --------
 
->XP_035586943.1 protein kinase [Schistosoma haematobium]
+>XP_035586943.1_protein_kinase_[Schistosoma_haematobium]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--
@@ -1868,7 +1868,7 @@ AKTVLTLAEQ MLWRIECVHY RGLIHRDIKP DNFLMGIGPH CNRVFIVDFG LAKRF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->XP_035588601.1 kinase, partial [Schistosoma haematobium]
+>XP_035588601.1_kinase,_partial_[Schistosoma_haematobium]
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1885,7 +1885,7 @@ VWDYVFDWTL LRQKAS---A IE-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PPGQKTS--- ---------- ----TNVA-- ---------- ---------- -ADTSV---- ---KE----- --------
 
->D915_11599 transcript=D915_11599 gene=D915_11599
+>D915_11599_transcript=D915_11599_gene=D915_11599
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSSTF
 D--------- ---------F VIGGK-WRLL RKIGSGSFGA IYLGVNIHTA EEVAVKLERV NARHP-QLYF ESRVYRVL--
@@ -1902,7 +1902,7 @@ MKTVLMLADQ MLWRLDFLHA RNFIHRDIKP DNFLMGIGRN CNKVFLIDFG LAKKF----- -------R-- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->D915_14716 transcript=D915_14716 gene=D915_14716
+>D915_14716_transcript=D915_14716_gene=D915_14716
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ------MENI YSRHP-QLQF EHKVYRLL--
@@ -1919,7 +1919,7 @@ QFDYVFDWTM LKQRGA---A GSSNAAIT-N EDGVP----- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------R RKAT----
 
->D915_02530 transcript=D915_02530 gene=D915_02530
+>D915_02530_transcript=D915_02530_gene=D915_02530
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MK
 SSKS------ ---------- ---------- ---------- -------LAE SN-------- ---DV----- ----SYDSSS
 E--------- ---------F VINKE-WKLI KRIGAGSFGE IFLATNRKTN EEAAVKLEVY KSGVPVQLQT EFHLLRTL--
@@ -1936,7 +1936,7 @@ KYDCQFDW-- -NDSAL---G TKD------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->D915_13641 transcript=D915_13641 gene=D915_13641
+>D915_13641_transcript=D915_13641_gene=D915_13641
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- --------LS VLLGTDIAKG EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -1953,7 +1953,7 @@ KYERI-SEKK MQTPVEVLCE GYPV------ -----L---C ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- L--------- ---------- ---------- ---------- ---------- --------
 
->D915_11877 transcript=D915_11877 gene=D915_11877
+>D915_11877_transcript=D915_11877_gene=D915_11877
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MV
 SV-------- ---------- ---------- ---------- ---------- ---------- ---------- -----KPSNV
 N--------- ---------L VISGK-WRLV RKIGGGSFGD IYLGHNISTG EEVAVKLEPS SARHP-QLLY ESRVYRIL--
@@ -1970,7 +1970,7 @@ ISAKMDVYYL ---------- -------RRQ IV-------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
 
->D915_11876 transcript=D915_11876 gene=D915_11876
+>D915_11876_transcript=D915_11876_gene=D915_11876
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -1987,7 +1987,7 @@ AQTRMLLHNL IGRGPHTSSN QPQSQQQQQQ LLHQQLSDNN ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------PH
 SGAYNAA--- ---------- ---------- ---------- ---------- -AGTSG-A-Y GIRCVMPDLR R-------
 
->D915_11601 transcript=D915_11601 gene=D915_11601
+>D915_11601_transcript=D915_11601_gene=D915_11601
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------M-
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -2004,7 +2004,7 @@ VWDYVFDWTL LRQKAS---A MQ-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 AAAVN----- ------SNAA AIIADNGT-- ---------- ---------- -KGIKD-LSY AYQAETTAAR SD------
 
->Smp_067810.1 transcript=Smp_067810.1 gene=Smp_067810
+>Smp_067810.1_transcript=Smp_067810.1_gene=Smp_067810
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------M RKIGSGSFGD IYLGVNQLTG EEVAVKMENI YAKHP-QLQF EHKVYRLL--
@@ -2021,7 +2021,7 @@ QFDYVFDWTI LKQRGP---A GTSS---TLN EDTG------ ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- -GSTQV---- -------PFG RTG-----
 
->Smp_169950.1 transcript=Smp_169950.1 gene=Smp_169950
+>Smp_169950.1_transcript=Smp_169950.1_gene=Smp_169950
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------M
 E--------- ---------L RVGNK-YRLG RKIGSGSFGE IYLGIDITND EEVAIKLECV KAKHP-QLQI EAKIYKLM--
@@ -2038,7 +2038,7 @@ TSQF---ASP TCPSNMFLIN NNHNNSSANN ---PISMTGG LQQQQQPNTN LYPSIDSNCT IQHPS----- QQQ
 PVQSQPQSST NNNN-NNQQV VTSRQIVQGI SHH---PQQN SYLLTQQNSI GQVIGGGGNS SGTTNHQIH- -HHQQQLNAS
 TTFGNHPHNL YHLRLHPE-T FYVPATASGQ T---SNINNN ENFTSTPMIL PSGQQV---G G--AGSNAFR K-------
 
->Smp_194270.1 transcript=Smp_194270.1 gene=Smp_194270
+>Smp_194270.1_transcript=Smp_194270.1_gene=Smp_194270
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------MD
 DSQ------- ---------- ---------- ---------- ---------- ---------- ---------- -----RLSSS
 K--------- ---------Y IVAEK-WRLV RKIGSGSFGS IFLGVNIVTG EEVAIKMERV RTRHC-QLYF ESKVYRVL--
@@ -2055,7 +2055,7 @@ VWDYVFDWTL LRQKAS---A IE-------- ---------- ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 PPGPTTS--- ---------- ----TNAA-- ---------- ---------- -AATSV---- ---KE----- --------
 
->Smp_201220.1 transcript=Smp_201220.1 gene=Smp_201220
+>Smp_201220.1_transcript=Smp_201220.1_gene=Smp_201220
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--
@@ -2072,7 +2072,7 @@ AA-QCALPAP QVYGNHNHHN IPVQQP--QQ VLPH-A-HSR ---------- ---------- ---------- ---
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------TQ
 TNAYNAP--- ---------- ---------- ---------- ---------- --GTSV-E-Y GMRCMPTEMR R-------
 
->Smp_335710.1 transcript=Smp_335710.1 gene=Smp_335710
+>Smp_335710.1_transcript=Smp_335710.1_gene=Smp_335710
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------ME
 SRK------- ---------- ---------- ---------- ---------- ---------- ---------- -----VSLSA
 N--------- ---------A LIGGK-WRLV RKIGGGSFGD IYLGQNMLTG DEVAIKLEPV TARHP-QLLY ESRVYRVL--

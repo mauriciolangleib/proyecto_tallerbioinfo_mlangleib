@@ -35,13 +35,15 @@ ape::write.tree(phy = arbol_contree, file = 'OG0000070.modif.msa.correct_labels.
 # modifico tambien los nombres en el alineamiento
 bioseq::read_fasta('../aln/OG0000070.modif.msa', 'AA') %>% 
 	as_tibble() %>%
-	dplyr::mutate(label = label %>% tidytidbits::lookup_chr(., dict = seqs_complete.dict, default = identity)) %>%
+	dplyr::mutate(label = label %>% tidytidbits::lookup_chr(., dict = seqs_complete.dict, default = identity) %>%
+					str_replace_all(., ' ', '_')) %>%
 	deframe() %>%
 	bioseq::write_fasta(., '../aln/OG0000070.modif.correct_labels.msa')
 
 ############
 # plotting #
 ############
+
 # cargo librerias
 library(ape)
 library(tidyverse)
