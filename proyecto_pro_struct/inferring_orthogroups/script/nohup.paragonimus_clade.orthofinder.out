@@ -1,0 +1,62 @@
+
+OrthoFinder version 2.5.2 Copyright (C) 2014 David Emms
+
+2021-02-15 09:10:35 : Starting OrthoFinder 2.5.2
+16 thread(s) for highly parallel tasks (BLAST searches etc.)
+2 thread(s) for OrthoFinder algorithm
+
+Checking required programs are installed
+----------------------------------------
+Test can run "mcl -h" - ok
+
+Dividing up work for BLAST for parallel processing
+--------------------------------------------------
+2021-02-15 09:10:36 : Creating diamond database 1 of 4
+2021-02-15 09:10:36 : Creating diamond database 2 of 4
+2021-02-15 09:10:36 : Creating diamond database 3 of 4
+2021-02-15 09:10:36 : Creating diamond database 4 of 4
+
+Running diamond all-versus-all
+------------------------------
+Using 16 thread(s)
+2021-02-15 09:10:36 : This may take some time....
+2021-02-15 09:10:36 : Done 0 of 16
+2021-02-15 09:12:17 : Done all-versus-all sequence search
+
+Running OrthoFinder algorithm
+-----------------------------
+2021-02-15 09:12:17 : Initial processing of each species
+2021-02-15 09:12:20 : Initial processing of species 1 complete
+2021-02-15 09:12:23 : Initial processing of species 2 complete
+2021-02-15 09:12:20 : Initial processing of species 0 complete
+2021-02-15 09:12:23 : Initial processing of species 3 complete
+2021-02-15 09:12:26 : Connected putative homologues
+2021-02-15 09:12:27 : Written final scores for species 1 to graph file
+2021-02-15 09:12:27 : Written final scores for species 3 to graph file
+2021-02-15 09:12:27 : Written final scores for species 0 to graph file
+2021-02-15 09:12:27 : Written final scores for species 2 to graph file
+2021-02-15 09:12:30 : Ran MCL
+
+Writing orthogroups to file
+---------------------------
+OrthoFinder assigned 44368 genes (88.6% of total) to 10580 orthogroups. Fifty percent of all genes were in orthogroups with 4 or more genes (G50 was 4) and were contained in the largest 4722 orthogroups (O50 was 4722). There were 7375 orthogroups with all species present and 5343 of these consisted entirely of single-copy genes.
+
+2021-02-15 09:12:31 : Done orthogroups
+
+Analysing Orthogroups
+=====================
+2021-02-15 09:12:31 : Starting MSA/Trees
+2021-02-15 09:12:32 : Done MSA/Trees
+
+2021-02-15 09:12:32 : Done orthologues
+
+Results:
+    ../results/Results_Feb15/
+
+CITATION:
+ When publishing work that uses OrthoFinder please cite:
+ Emms D.M. & Kelly S. (2019), Genome Biology 20:238
+
+ If you use the species tree in your work then please also cite:
+ Emms D.M. & Kelly S. (2017), MBE 34(12): 3267-3278
+ Emms D.M. & Kelly S. (2018), bioRxiv https://doi.org/10.1101/267914
