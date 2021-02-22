@@ -1,0 +1,31 @@
+---
+title: "Explorando la función de una proteína hipotética de *P. westermani*"
+subtitle: "Curso *Proteínas: explorando hipótesis de función con estructuras y secuencias*"
+author: "Mauricio Langleib"
+date: "`r format(Sys.Date(), format='%d de %B de %Y')`"
+encoding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js 
+    css: ["xaringan-themer.css", "custom_theme.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_light(base_color = "#2874A6")
+```
+
+# Epa
+- asasd
+- asds
+
+# apa
+- asasa
+
+# Gracias
+- Gracias!
