@@ -3,7 +3,6 @@ title: "Explorando la función de una proteína hipotética de *P. westermani*"
 subtitle: "Curso *Proteínas: explorando hipótesis de función con estructuras y secuencias*"
 author: "Mauricio Langleib"
 date: "`r format(Sys.Date(), format='%d de %B de %Y')`"
-encoding: "UTF-8"
 output:
   xaringan::moon_reader:
     chakra: libs/remark-latest.min.js 
