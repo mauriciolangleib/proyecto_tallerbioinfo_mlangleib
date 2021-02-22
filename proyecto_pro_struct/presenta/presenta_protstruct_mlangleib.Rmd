@@ -20,12 +20,15 @@ library(xaringanthemer)
 style_mono_light(base_color = "#2874A6")
 ```
 
-# Epa
+---
+
 - asasd
 - asds
 
-# apa
+---
+
 - asasa
 
-# Gracias
+---
+
 - Gracias!
